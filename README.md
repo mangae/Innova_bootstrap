@@ -3,7 +3,7 @@
 - Bootstrap block **383.987** for InnovaCoin Windows wallet.
 - **Always - Backup your wallet.dat first.**
 - Close the InnovaCoin wallet
-- Download [Innova_snapshot_Windows_wallet](https://www.dropbox.com/s/8627phpugkchtd6/bootstrap.zip) into your %appdata%/InnovaCore or "C:\Users\YOURuserNAME\AppData\Roaming\InnovaCore" folder and unzip/unpack it (if prompt overwrite files). **MAKE SURE THAT YOU HAVE FRESH BACKUP and "wallet.dat" saved at different location, and do not overwrite entire InnovaCore folder, just the prompt contents"** 
+- Download [Innova_snapshot_Windows_wallet](https://www.dropbox.com/s/k4gl71xtsqtml8p/innbootstrap.zip) into your %appdata%/InnovaCore or "C:\Users\YOURuserNAME\AppData\Roaming\InnovaCore" folder and unzip/unpack it (if prompt overwrite files). **MAKE SURE THAT YOU HAVE FRESH BACKUP and "wallet.dat" saved at different location, and do not overwrite entire InnovaCore folder, just the prompt contents"** 
 - Start the wallet and verify that your wallet is fully syncronized.
 
 **Note:**

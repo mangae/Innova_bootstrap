@@ -12,7 +12,7 @@ cd /root/.innovacore
 rm -R ./blocks &>/dev/null &
 rm -R ./chainstate	&>/dev/null &
 rm peers.dat  &>/dev/null &
-rm  banlist.dat &>/dev/null &
+rm banlist.dat &>/dev/null &
 
 unzip  innbootstrap.zip
 rm ./innbootstrap.zip

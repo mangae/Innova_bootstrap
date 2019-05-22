@@ -6,6 +6,8 @@ wget https://www.dropbox.com/s/k4gl71xtsqtml8p/innbootstrap.zip
 mv innbootstrap.zip /root/.innovacore/innbootstrap.zip
 killall -9 innovad
 
+sleep 20
+
 cd /root/.innovacore
 rm -R ./blocks &>/dev/null &
 rm -R ./chainstate	&>/dev/null &

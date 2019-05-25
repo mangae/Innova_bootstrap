@@ -3,7 +3,7 @@
 sudo apt-get install unzip -y
 
 wget https://www.dropbox.com/s/rgxacl9myb4kw9p/innovabootstrap.zip
-mv innbootstrap.zip /root/.innovacore/innbootstrap.zip
+mv innovabootstrap.zip /root/.innovacore/innovabootstrap.zip
 killall -9 innovad
 
 sleep 20

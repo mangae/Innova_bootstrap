@@ -2,7 +2,7 @@
 
 sudo apt-get install unzip -y
 
-wget https://www.dropbox.com/s/k4gl71xtsqtml8p/innbootstrap.zip
+wget https://www.dropbox.com/s/rgxacl9myb4kw9p/innovabootstrap.zip
 mv innbootstrap.zip /root/.innovacore/innbootstrap.zip
 killall -9 innovad
 

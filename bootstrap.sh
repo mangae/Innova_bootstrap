@@ -14,8 +14,8 @@ rm -R ./chainstate	&>/dev/null &
 rm peers.dat  &>/dev/null &
 rm banlist.dat &>/dev/null &
 
-unzip  innbootstrap.zip
-rm ./innbootstrap.zip
+unzip  innovabootstrap.zip
+rm ./innovabootstrap.zip
 sleep 5
 echo Starting InnovaCoin daemon
 innovad -daemon

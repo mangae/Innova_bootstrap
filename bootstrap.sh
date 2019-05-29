@@ -14,6 +14,8 @@ rm -R ./chainstate	&>/dev/null &
 rm peers.dat  &>/dev/null &
 rm banlist.dat &>/dev/null &
 
+sleep 10
+
 unzip  innovabootstrap.zip
 rm ./innovabootstrap.zip
 sleep 5

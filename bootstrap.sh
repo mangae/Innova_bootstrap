@@ -20,5 +20,5 @@ sleep 5
 echo Starting InnovaCoin daemon
 innovad -daemon
 sleep 20
-innovad getinfo
+innova-cli getinfo
 echo Bootstrap completed

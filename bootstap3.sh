@@ -3,14 +3,14 @@
 sudo apt-get install unzip -y
 
 wget https://www.dropbox.com/s/rgxacl9myb4kw9p/innovabootstrap.zip
-cp innovabootstrap.zip /root/.innovacore1/innovabootstrap.zip
+cp innovabootstrap.zip /root/.innovacore/innovabootstrap.zip
 cp innovabootstrap.zip /root/.innovacore2/innovabootstrap.zip
 cp innovabootstrap.zip /root/.innovacore3/innovabootstrap.zip
 killall -9 innovad
 
 sleep 20
 
-cd /root/.innovacore1
+cd /root/.innovacore
 rm -R ./blocks &>/dev/null &
 rm -R ./chainstate	&>/dev/null &
 rm peers.dat  &>/dev/null &
@@ -22,9 +22,9 @@ unzip  innovabootstrap.zip
 rm ./innovabootstrap.zip
 sleep 5
 echo Starting InnovaCoin daemon
-innovad -datadir=/root/.innovacore2 --daemon
+innovad -datadir=/root/.innovacore --daemon
 sleep 20
-innova-cli -datadir=/root/.innovacore1 getinfo
+innova-cli -datadir=/root/.innovacore getinfo
 echo Bootstrap1 completed
 cd
 

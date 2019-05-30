@@ -18,8 +18,8 @@ rm banlist.dat &>/dev/null &
 
 sleep 10
 
-unzip  innovabootstrap.zip
-rm ./innovabootstrap.zip
+unzip innovabootstrap.zip
+rm innovabootstrap.zip
 sleep 5
 echo Starting InnovaCoin daemon
 innovad -datadir=/root/.innovacore --daemon
@@ -38,8 +38,8 @@ rm banlist.dat &>/dev/null &
 
 sleep 10
 
-unzip  innovabootstrap.zip
-rm ./innovabootstrap.zip
+unzip innovabootstrap.zip
+rm innovabootstrap.zip
 sleep 5
 echo Starting InnovaCoin daemon
 innovad -datadir=/root/.innovacore2 --daemon
@@ -58,8 +58,8 @@ rm banlist.dat &>/dev/null &
 
 sleep 10
 
-unzip  innovabootstrap.zip
-rm ./innovabootstrap.zip
+unzip innovabootstrap.zip
+rm innovabootstrap.zip
 sleep 5
 echo Starting InnovaCoin daemon
 innovad -datadir=/root/.innovacore3 --daemon

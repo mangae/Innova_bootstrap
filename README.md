@@ -1,6 +1,6 @@
 # InnovaCoin
-## Windows wallet - bootstrap (22/Jun/19)
-- Bootstrap block ***399.330*** for InnovaCoin Windows wallet.
+## Windows wallet - bootstrap (26/Jun/19)
+- Bootstrap block ***400.953 *** for InnovaCoin Windows wallet.
 - **Always - Backup your wallet.dat first.**
 - Close the InnovaCoin wallet
 - Download [Innova_snapshot_Windows_wallet](https://www.dropbox.com/s/rgxacl9myb4kw9p/innovabootstrap.zip) into your %appdata%/InnovaCore or "C:\Users\YOURuserNAME\AppData\Roaming\InnovaCore" folder and unzip/unpack it (if prompt overwrite files). **MAKE SURE THAT YOU HAVE FRESH BACKUP and "wallet.dat" saved at different location, and do not overwrite entire InnovaCore folder, just the prompt contents"** 
@@ -9,8 +9,8 @@
 **Note:**
 - If you using different location for InnovaCore then unpack this inside of it.
 
-## Linux - Masternode bootstrap (22/Jun/19)
-- Bootstrap block ***399.330*** for InnovaCoin Linux hot masternode.
+## Linux - Masternode bootstrap (26/Jun/19)
+- Bootstrap block ***400.953*** for InnovaCoin Linux hot masternode.
 - Run following command lines:
 ```css
 wget https://raw.githubusercontent.com/mangae/Innova_bootstrap/master/bootstrap.sh

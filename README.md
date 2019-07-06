@@ -1,5 +1,5 @@
 # InnovaCoin
-## Windows wallet - bootstrap (06/Juj/19)
+## Windows wallet - bootstrap (06/Jul/19)
 - Bootstrap block ***407.250*** for InnovaCoin Windows wallet.
 - **Always - Backup your wallet.dat first.**
 - Close the InnovaCoin wallet

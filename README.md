@@ -1,4 +1,4 @@
-# InnovaCoin
+# InnovaCoin - FOR OLD CHAIN ONLY
 ## Windows wallet - bootstrap (14/Dec/19)
 - Bootstrap block ***480.745*** for InnovaCoin Windows wallet.
 - **Always - Backup your wallet.dat first.**

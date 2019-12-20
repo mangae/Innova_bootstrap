@@ -9,7 +9,7 @@
 **Note:**
 - If you using different location for InnovaCore then unpack this inside of it.
 
-## Linux - Masternode bootstrap (14/Dec/19)
+## Linux - Masternode bootstrap (20/Dec/19)
 - Bootstrap block ***484.550*** for InnovaCoin Linux hot masternode.
 - Run following command lines:
 ```css

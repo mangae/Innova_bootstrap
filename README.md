@@ -7,12 +7,12 @@
 - Go to Windows File Explorer and browse to %appdata%\Innova
 ![Innova Data Folder](https://i.imgur.com/KbLozsc.jpg)
 - Remove/delete below listed folders and files (see the picture below).
-database
-smsgDB
-txleveldb
-blk0001.dat
-debug.log
-peers.dat
+* database
+* smsgDB
+* txleveldb
+* blk0001.dat
+* debug.log
+* peers.dat
 ![Remove Files and Folders](https://i.imgur.com/i6W57n2.jpg)
 - Download [Innova_snapshot_Windows_wallet](https://www.dropbox.com/s/rzesomb5m9pyvvt/innbootstrap.zip) into your %appdata%/Innova or "C:\Users\YOURuserNAME\AppData\Roaming\Innova" folder and unzip/unpack it (if prompt overwrite files). **MAKE SURE THAT YOU HAVE FRESH BACKUP and "wallet.dat" saved at different location, and do not overwrite entire InnovaCore folder, just the prompt contents"** 
 ![Download snapshot](https://i.imgur.com/uzQIPDb.jpg)

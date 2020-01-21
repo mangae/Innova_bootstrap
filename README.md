@@ -1,4 +1,4 @@
-# InnovaCoin - FOR NEW CHAIN ONLY - Wallet version v4.3.8.6
+# InnovaCoin - FOR NEW CHAIN ONLY - [Wallet version v4.3.8.6](https://github.com/innova-foundation/innova/releases)
 ## Windows wallet - bootstrap (21/Jan/20)
 - Bootstrap block ***126.290*** for InnovaCoin Windows wallet.
 - The steps are similar for MacOX and Linux

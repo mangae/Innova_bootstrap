@@ -6,7 +6,7 @@ wget https://www.dropbox.com/s/rzesomb5m9pyvvt/innbootstrap.zip
 mv innbootstrap.zip /root/.innova/innbootstrap.zip
 killall -9 innovad
 
-sleep 20
+sleep 10
 
 cd /root/.innova
 rm -R ./database &>/dev/null &
@@ -17,7 +17,7 @@ rm debug.log &>/dev/null &
 
 sleep 10
 
-unzip  innbootstrap.zip
+unzip innbootstrap.zip
 rm ./innbootstrap.zip
 sleep 5
 echo Starting InnovaCoin daemon

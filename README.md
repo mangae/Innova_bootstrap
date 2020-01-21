@@ -21,7 +21,7 @@
 6. Start the wallet and verify that your wallet is fully syncronized.
 
 **Note:**
-- If you using different location for InnovaCore then unpack this inside of it.
+- If you using different location for Innova then unpack this inside of it.
 
 ## Linux - Masternode bootstrap (21/Jan/20)
 - Bootstrap block ***126.290*** for InnovaCoin Linux hot masternode.

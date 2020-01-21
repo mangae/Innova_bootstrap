@@ -1,8 +1,11 @@
-# InnovaCoin - FOR NEW CHAIN ONLY
+# InnovaCoin - FOR NEW CHAIN ONLY - Wallet version v4.3.8.6
 ## Windows wallet - bootstrap (21/Jan/20)
 - Bootstrap block ***126.290*** for InnovaCoin Windows wallet.
+- The steps are similar for MacOX and Linux
 - **Always - Backup your wallet.dat first.**
 - Close the InnovaCoin wallet
+- Go to Windows File Explorer and browse to %appdata%\Innova
+![Innova Data Folder](https://i.imgur.com/mGj8Cmk.jpg)
 - Download [Innova_snapshot_Windows_wallet](https://www.dropbox.com/s/rzesomb5m9pyvvt/innbootstrap.zip) into your %appdata%/Innova or "C:\Users\YOURuserNAME\AppData\Roaming\Innova" folder and unzip/unpack it (if prompt overwrite files). **MAKE SURE THAT YOU HAVE FRESH BACKUP and "wallet.dat" saved at different location, and do not overwrite entire InnovaCore folder, just the prompt contents"** 
 - Start the wallet and verify that your wallet is fully syncronized.
 

@@ -2,11 +2,11 @@
 ## Windows wallet - bootstrap (21/Jan/20)
 - Bootstrap block ***126.290*** for InnovaCoin Windows wallet.
 - The steps are similar for MacOX and Linux
-- **Always - Backup your wallet.dat first.**
-- Close the InnovaCoin wallet
-- Go to Windows File Explorer and browse to %appdata%\Innova
+1. **Always - Backup your wallet.dat first.**
+2. Close the InnovaCoin wallet
+3. Go to Windows File Explorer and browse to %appdata%\Innova
 ![Innova Data Folder](https://i.imgur.com/KbLozsc.jpg)
-- Remove/delete below listed folders and files (see the picture below).
+4. Remove/delete below listed folders and files (see the picture below).
 * database
 * smsgDB
 * txleveldb
@@ -14,9 +14,9 @@
 * debug.log
 * peers.dat
 ![Remove Files and Folders](https://i.imgur.com/i6W57n2.jpg)
-- Download [Innova_snapshot_Windows_wallet](https://www.dropbox.com/s/rzesomb5m9pyvvt/innbootstrap.zip) into your %appdata%/Innova or "C:\Users\YOURuserNAME\AppData\Roaming\Innova" folder and unzip/unpack it (if prompt overwrite files). **MAKE SURE THAT YOU HAVE FRESH BACKUP and "wallet.dat" saved at different location, and do not overwrite entire InnovaCore folder, just the prompt contents"** 
+5. Download [Innova_snapshot_Windows_wallet](https://www.dropbox.com/s/rzesomb5m9pyvvt/innbootstrap.zip) into your %appdata%/Innova or "C:\Users\YOURuserNAME\AppData\Roaming\Innova" folder and unzip/unpack it (if prompt overwrite files). **MAKE SURE THAT YOU HAVE FRESH BACKUP and "wallet.dat" saved at different location, and do not overwrite entire InnovaCore folder, just the prompt contents"** 
 ![Download snapshot](https://i.imgur.com/uzQIPDb.jpg)
-- Start the wallet and verify that your wallet is fully syncronized.
+6. Start the wallet and verify that your wallet is fully syncronized.
 
 **Note:**
 - If you using different location for InnovaCore then unpack this inside of it.

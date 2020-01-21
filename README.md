@@ -21,4 +21,4 @@ bash bootstrap.sh
 **Note:**
 - Synchronization time may vary of your VPS hardware and network performance.
 - bootstrap.sh is build to update your wallet at default **/root/.innova/** folder, so if you using different folder please feel free to modify it.
-- It will also remove files peers.dat and banlist.dat from your .innova folder.
+- It will also remove files peers.dat and debug.log from your .innova folder.

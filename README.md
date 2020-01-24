@@ -1,6 +1,6 @@
 # InnovaCoin - FOR NEW CHAIN ONLY - [Wallet version v4.3.8.6](https://github.com/innova-foundation/innova/releases)
-## Windows wallet - bootstrap (21/Jan/20)
-- Bootstrap block ***126.290*** for InnovaCoin Windows wallet.
+## Windows wallet - bootstrap (24/Jan/20)
+- Bootstrap block ***137.765*** for InnovaCoin Windows wallet.
 - The steps are similar for MacOX and Linux
 1. **Always - Backup your wallet.dat first.**
 2. Close the InnovaCoin wallet
@@ -23,8 +23,8 @@
 **Note:**
 - If you using different location for Innova then unpack this inside of it.
 
-## Linux - Masternode bootstrap (21/Jan/20)
-- Bootstrap block ***126.290*** for InnovaCoin Linux hot masternode.
+## Linux - Masternode bootstrap (25/Jan/20)
+- Bootstrap block ***137.765*** for InnovaCoin Linux hot masternode.
 - Run following command lines:
 ```css
 wget https://raw.githubusercontent.com/mangae/Innova_bootstrap/master/bootstrap.sh

@@ -18,7 +18,7 @@
 ![Remove Files and Folders](https://i.imgur.com/ax6Q8lJ.jpg)  
 
 5. Download [Innova_snapshot_Windows_wallet](https://github.com/innova-foundation/innova/releases/download/v4.3.8.8/innovabootstrap.zip) into your %appdata%/Innova or "C:\Users\YOURuserNAME\AppData\Roaming\Innova" folder and unzip/unpack it (if prompt overwrite files). **MAKE SURE THAT YOU HAVE FRESH BACKUP and "wallet.dat" saved at different location, and do not overwrite entire InnovaCore folder, just the prompt contents"** 
-![Download snapshot](https://i.imgur.com/BogvO2e.jpg)
+![Download snapshot](https://i.imgur.com/4PnZJT2.jpg)
 6. Rename file fortunastake.conf into ***collateralnode.conf***
 ![Rename .conf file](https://i.imgur.com/tb1B8w3.jpg)
 

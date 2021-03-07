@@ -2,8 +2,8 @@
 
 sudo apt-get install unzip -y
 
-wget https://www.dropbox.com/s/rzesomb5m9pyvvt/innbootstrap.zip
-mv innbootstrap.zip /root/.innova/innbootstrap.zip
+wget https://github.com/innova-foundation/innova/releases/download/v4.3.8.8/innovabootstrap.zip
+mv innovabootstrap.zip /root/.innova/innovabootstrap.zip
 killall -9 innovad
 
 sleep 10
@@ -17,10 +17,10 @@ rm debug.log &>/dev/null &
 
 sleep 10
 
-unzip innbootstrap.zip
-rm ./innbootstrap.zip
+unzip innovabootstrap.zip
+rm ./innovabootstrap.zip
 sleep 5
-echo Starting InnovaCoin daemon
+echo Starting Innova daemon
 innovad -daemon
 sleep 20
 innovad getinfo

@@ -14,11 +14,13 @@
 * debug.log
 * peers.dat
 
-![Remove Files and Folders](https://i.imgur.com/ax6Q8lJ.jpg)    
+![Remove Files and Folders](https://i.imgur.com/ax6Q8lJ.jpg)  
+***DO NOT DELETE WALLET.DAT FILE*** (Make sure that you have copy of it at safe location.)
 
 5. Download [Innova_snapshot_Windows_wallet](https://github.com/innova-foundation/innova/releases/download/v4.3.8.8/innovabootstrap.zip) into your %appdata%/Innova or "C:\Users\YOURuserNAME\AppData\Roaming\Innova" folder and unzip/unpack it (if prompt overwrite files). **MAKE SURE THAT YOU HAVE FRESH BACKUP and "wallet.dat" saved at different location, and do not overwrite entire InnovaCore folder, just the prompt contents"** 
 ![Download snapshot](https://i.imgur.com/uzQIPDb.jpg)
-6. Start the wallet and verify that your wallet is fully syncronized.
+6. Rename file fortunastake.conf into ***collateralnode.conf***
+7. Start the wallet and verify that your wallet is fully syncronized.
 
 **Note:**
 - If you using different location for Innova then unpack this inside of it.

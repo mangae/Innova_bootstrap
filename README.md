@@ -1,9 +1,9 @@
-# InnovaCoin - FOR NEW CHAIN ONLY - [Wallet version v4.3.8.6](https://github.com/innova-foundation/innova/releases)
-## Windows wallet - bootstrap (05/Feb/20)
-- Bootstrap block ***183.963*** for InnovaCoin Windows wallet.
+# InnovaCoin - FOR NEW CHAIN ONLY - [Wallet version v4.3.8.9](https://github.com/innova-foundation/innova/releases)
+## Windows wallet - bootstrap (06/Mar/21)
+- Bootstrap block ***1113550*** for Innova Windows wallet.
 - The steps are similar for MacOX and Linux
 1. **Always - Backup your wallet.dat first.**
-2. Close the InnovaCoin wallet
+2. Close the Innova wallet
 3. Go to Windows File Explorer and browse to %appdata%\Innova
 ![Innova Data Folder](https://i.imgur.com/KbLozsc.jpg)
 4. Remove/delete below listed folders and files (see the picture below).

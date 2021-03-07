@@ -5,7 +5,7 @@
 1. **Always - Backup your wallet.dat first.**
 2. Close the Innova wallet
 3. Go to Windows File Explorer and browse to %appdata%\Innova
-![Innova Data Folder](https://i.imgur.com/i6W57n2.jpg)
+![Innova Data Folder](https://i.imgur.com/KbLozsc.jpg)
 4. Remove/delete below listed folders and files (see the picture below).
 * database
 * smsgDB

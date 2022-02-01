@@ -22,6 +22,7 @@ rm debug.log &>/dev/null &
 sleep 10
 
 unzip innovabootstrap.zip
+mv /root/.innova/innovabootstrap/* /root/.innova/
 rm ./innovabootstrap.zip
 sleep 5
 echo Starting Innova daemon

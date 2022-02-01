@@ -24,9 +24,11 @@ sleep 10
 unzip innovabootstrap.zip
 mv /root/.innova/innovabootstrap/* /root/.innova/
 rm ./innovabootstrap.zip
+rm -rf /root/.innova/innovabootstrap
 sleep 5
 echo Starting Innova daemon
 innovad -daemon
-sleep 20
+echo Please wait....
+sleep 60
 innovad getinfo
 echo Bootstrap completed
